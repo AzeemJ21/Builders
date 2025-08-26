@@ -7,7 +7,7 @@
   "build": "next build --turbopack",
   "start": "next start -p $PORT",
   "lint": "eslint"
-}
+},
 
   "dependencies": {
     "lucide-react": "^0.541.0",
