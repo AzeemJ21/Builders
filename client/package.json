@@ -3,11 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build --turbopack && next export",
-    "start": "next start -p $PORT",
-    "lint": "eslint"
-  },
+  "dev": "next dev --turbopack",
+  "build": "next build --turbopack",
+  "start": "next start"
+},
   "dependencies": {
     "lucide-react": "^0.541.0",
     "next": "15.5.0",
